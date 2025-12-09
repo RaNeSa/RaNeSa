@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaNeSa
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning ASP .NET Core
+- 🌱 I’m currently FrontEnd Developer
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me on instargram @rahmaninezhad
 
